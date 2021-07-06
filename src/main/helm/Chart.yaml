@@ -1,0 +1,6 @@
+apiVersion: v2
+name: devx-helloworld-springboot-9cnuc
+description: Chart for creating devx-helloworld-springboot-9cnuc and ingress mapping our Flexport EKS clusters
+
+type: application
+version: 0.1.0
